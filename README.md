@@ -4,6 +4,6 @@ A few summers ago I decided to create an implementation of the iPhone 3G bluetoo
 
 The task wasn't the easiest thing I've ever done (especially as a higher level software designer) but coding that close to the bare metal was an exhilarating, primal and really satisfying experience.
 
-![Scanning](scanning.jpg)
+### Screenshot
 
 ![Devices](devices.jpg)
